@@ -27,10 +27,6 @@ def show_recipe(data):
     print(data)
     return render_template('recipe.html', data=data)
 
-# @app.route('/')
-# def index():
-#     return render_template('Project1.html')
-
 @app.route('/ingredients')
 def ingredients():
     return render_template('add_ingredients.html')
