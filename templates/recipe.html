@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="/static/recipe.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
     
-     
 </head>
 <body>
      <center>
@@ -27,9 +26,7 @@
             <!-- <p>Architect & Engineer</p> -->
             
             <a href="#" class="recipe_btn" onclick="openForm()">
-                <!-- <button>
-                Get Recipe
-            </button> -->
+                <!-- <button> Get Recipe </button> -->
             Get Recipe
 
         </a> 
@@ -50,8 +47,6 @@
                         <p><ol>
                             {% for i in range((items|length)-1)%}
                             <li>{{items[i+1]}}</li>
-                            <!-- <li>{{items[2]}}</li>
-                            <li>{{items[3]}}</li> -->
                             {% endfor %}
                         </ol>
                     </p>
@@ -76,12 +71,6 @@
             
         </div>
     </div>
-    <!-- <h1></h1> -->
-    <!-- <ol>
-        <li>{{items[1]}}</li>
-        <li>{{items[2]}}</li>
-        <li>{{items[3]}}</li>
-    </ol> -->
  {% endfor %}
 
 
