@@ -12,9 +12,6 @@ def run_ingredients():
     if request.method == "POST":
         data = request.json
         MainData = check_for_recipes(data)
-        #print(MainData)
-        #newdata=str(MainData)
-        # res = newdata.strip('][').split(', ')
         print(MainData)
         print("worked")
         return redirect(f'/showrecipe/{MainData}')
@@ -29,8 +26,6 @@ def show_recipe(data):
     data=ast.literal_eval(data)
 
     print(data)
-    #MainData = data.strip('[]').split(',')
-    #print(MainData)
     return render_template('recipe.html', data=data)
 
     
