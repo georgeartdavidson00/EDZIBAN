@@ -1,12 +1,11 @@
-from flask import Flask , render_template,url_for,request,redirect
-from flask.scaffold import F
+from flask import Flask , render_template,url_for,request,jsonify,redirect
+# from flask.scaffold import f
 from recipes import *
 import ast
 
 
 
 app = Flask(__name__)
-
 @app.route('/ingredient',methods=['GET','POST'])
 def run_ingredients():
     if request.method == "POST":
@@ -19,7 +18,7 @@ def run_ingredients():
     
 @app.route('/')
 def main_run():
-    return render_template('Project.html')
+    return render_template('Project1.html')
 
 @app.route('/showrecipe/<data>')
 def show_recipe(data):
@@ -27,6 +26,14 @@ def show_recipe(data):
 
     print(data)
     return render_template('recipe.html', data=data)
+
+# @app.route('/')
+# def index():
+#     return render_template('Project1.html')
+
+@app.route('/ingredients')
+def ingredients():
+    return render_template('add_ingredients.html')
 
     
 if __name__ == '__main__':
