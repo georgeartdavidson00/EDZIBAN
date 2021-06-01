@@ -1,5 +1,11 @@
-Grilled Cheese,butter,bread,cheese
-Rice Chicken Stew,tomatoes,onions,garlic,chicken,pepper,curry,whitepepper
-Garden Egg Stew,gardeneggs,tomatoes,onions,palmmoil
-Light Soup With Goat,tomatoes,onions,garlic,goat,pepper
-Light Soup With Fish,tomatoes,onions,garlic,fish,pepper
+Spaghetti and meat balls,spaghetti,ground beef,bread crumbs,finely chopped parsley,freshly grated Parmesan,plus more for serving,egg,garlic cloves,minced,Kosher salt,red pepper flakes,extra-virgin olive oil,onion, finely chopped,tomatoes,bay leaf
+KakrO,plantains (very ripe),cup all-purpose flour,small onion , finely grated,tablespoon chopped fresh ginger,teaspoon salt,teaspoon Cayenne pepper,Vegetable oil
+Egusi soup,stewing beef trotters (or goat or lamb trotters),tripe,beef stock seasoning (or chicken),bonnet peppers (or more to taste),palm oil,ground egusi (or whole pumpkin seeds, ground),large onions , finely chopped,cloves garlic,ginger,tomatoes,pepper (or chili powder), according to taste,fish (or some smoked mackerels or kippers),smoked prawns left whole or ground (if using crayfish, grind them to a powder),spinach,Water
+Angwa mo,peanut oil,white rice,salted beef (tolo beef),onions,salt,cube Maggi chicken broth,red hot pepper,water,Salt,Pepper,beef (sirloin or rib eye),sea salt,bay leaves
+Omo tuo,rice long grain white rice, jasmine,water,salt
+Tatale,yellow plantains (very ripe),cup corn flour (fine corn meal),onion(chopped),teaspoon grated fresh ginger,small lemon (freshly squeezed),teaspoon red pepper powder,pinch salt,Vegetable oil (for frying).
+Waakye,grain rice,cans red beans (or black-eyed peas),A dozen leaves of dried millet (waakye),Salt.
+Okro stew,2 lb stewing beef,1 beef stock cube (or chicken stock cube),4 kpakposhito peppers,4 tablespoons palm oil,2 large onions,2 cloves garlic , finely diced,1 inch piece ginger,4 medium vine tomatoes,Scotch bonnet pepper (or chili powder), according to taste,2 fillets smoked mackerels (optional),24 pods okra,Water (as needed).
+Rice water,1 cup rice,5 cups water,Salt (to taste),1 pinch nutmeg,Sugar (or honey) to serve,Evaporated milk , to serve,Hot water (boiling).
+Bofrot,4 cups flour,1 cup caster sugar,1 tablespoon dry active yeast,½ teaspoon nutmeg , freshly grated,1½ cup warm water (or more, at 95 F),½ teaspoon salt,Vegetable oil (for frying).
+Jollof rice,2 lb chicken (bone in), cut,4 garlic cloves,1 onion,1 inch piece of ginger,1 Scotch bonnet pepper,1 stock cube,4 tablespoons vegetable oil,2 onions,thinly sliced,8 oz tomato paste,14 oz tomato puree (canned),2 Scotch bonnet peppers,1 onion,2 bay leaves,1 tablespoon curry powder (optional),4 cups parboiled rice,½ lb green beans (cut into 1 inch / 2,5 cm pieces),2 carrots (peeled and cut into large matchsticks).
