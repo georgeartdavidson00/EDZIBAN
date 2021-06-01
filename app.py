@@ -6,6 +6,7 @@ import ast
 
 
 app = Flask(__name__)
+
 @app.route('/ingredient',methods=['GET','POST'])
 def run_ingredients():
     if request.method == "POST":
