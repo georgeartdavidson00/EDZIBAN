@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Recipe</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/static/Project1.css" type="text/css">
+    
+
+</head>
+<body>
+    <div class="container">
+        <div class="nav-bar">
+            <div class="nav-logo">
+                <img src="https://pbs.twimg.com/profile_images/2184772941/fblogo.png">
+            </div>
+            <div class="popup" id="popup-1"> 
+                <div class="overlay"></div>
+                <div class="content">
+                <div class="close-btn" onclick="togglePopup()">&times;</div>
+                <h1>About us</h1>
+                <p><h4>email: edzibangh@gmail.com</h4>
+                    <h4>phone: +233 3456712340</h4>
+                    <h4>instagram: edzibangh</h4>
+                    <h4>facebook: Edziban GH</h4>
+                    <h4>twitter: edzibangh</h4>
+                    <h3>Edziban.... Everyone deserves a good meal.</h3></p>
+                </div>
+            </div>
+
+            
+            <div class="nav-links">
+                <ul>
+                    <a onclick="togglePopup()"><li> ABOUT US</li></a>
+                    <!-- <a href="/contact"><li>ABOUT US</li></a> -->
+                    <a href="/ingredients"><li>INGREDIENTS</li></a>
+                </ul>
+            </div>
+
+            <!-- <i class="fa fa-bars"></i> -->
+        </div>
+        <div class="banner-title">
+            <blockquote><h1>  Real food <span>doesn't have </span> ingredients,real food is ingredients </h1>  <br>
+                <cite>-Ethel M.Dell</cite>
+            </blockquote> 
+        <!-- </div>
+        <div class="vertical-bar">
+            <div class="search-icons">
+                <i class="fa fa-th-list"></i>
+                <i class="fa fa-search"></i>
+
+            </div>
+            <div class="social-icons">
+                <i class="fa fa-facebook" ></i>
+                <i class="fa fa-instagram"></i> -->
+                <!-- <i class="fa fa-pinterest"></i> -->
+
+            <!-- </div>
+        </div>  -->
+        <div class="notifications">
+            <div class="contents"></div>
+            <div class="notifications-img"></div>
+        </div>
+    </div>
+
+    <script src="https://kit.fontawesome.com/01af81bbeb.js" crossorigin="anonymous"></script>
+    <script>
+        function togglePopup() {
+            document.getElementById("popup-1").classList.toggle("active");
+  }
+    </script>
+</body>
+</html>
